@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Universit\u00E0\\CyberwargameECS_Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C27D77-16A4-7E7A-F0B9-5DEA1D5AFC3D}|Assembly-CSharp.csproj|g:\\universit\u00E0\\cyberwargameecs_demo\\assets\\scripts\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8C27D77-16A4-7E7A-F0B9-5DEA1D5AFC3D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C27D77-16A4-7E7A-F0B9-5DEA1D5AFC3D}|Assembly-CSharp.csproj|g:\\universit\u00E0\\cyberwargameecs_demo\\assets\\scripts\\ui\\playerhanddisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8C27D77-16A4-7E7A-F0B9-5DEA1D5AFC3D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\playerhanddisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "G:\\Universit\u00E0\\CyberwargameECS_Demo\\Assets\\Scripts\\UI\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIManager.cs",
+              "ToolTip": "G:\\Universit\u00E0\\CyberwargameECS_Demo\\Assets\\Scripts\\UI\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UIManager.cs",
+              "ViewState": "AgIAAIwBAAAAAAAAAAAkwKwBAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T10:42:27.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerHandDisplay.cs",
+              "DocumentMoniker": "G:\\Universit\u00E0\\CyberwargameECS_Demo\\Assets\\Scripts\\UI\\PlayerHandDisplay.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\PlayerHandDisplay.cs",
+              "ToolTip": "G:\\Universit\u00E0\\CyberwargameECS_Demo\\Assets\\Scripts\\UI\\PlayerHandDisplay.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\PlayerHandDisplay.cs",
+              "ViewState": "AgIAAFQBAAAAAAAAAAAUwI0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T10:39:51.956Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
