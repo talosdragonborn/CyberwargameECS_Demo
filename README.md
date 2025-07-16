@@ -10,8 +10,6 @@ Questo progetto è un esempio/demo sviluppato con Unity che utilizza l’Entity 
 - [Installazione](#installazione)
 - [Avvio del Progetto](#avvio-del-progetto)
 - [Struttura delle Cartelle](#struttura-delle-cartelle)
-- [FAQ e Note utili](#faq-e-note-utili)
-- [Contribuire](#contribuire)
 - [Licenza](#licenza)
 
 ---
@@ -50,10 +48,6 @@ L’obiettivo è fornire un esempio pratico di gestione di entità, componenti e
    - Vai nel pannello `Project` (in basso).
    - Naviga in `Assets/Scenes/`.
    - Fai doppio clic su `ScenaPrincipale.unity` (o sulla scena che vuoi esplorare).
-
-3. **Se vuoi includere altre scene nella build:**
-   - Vai su `File > Build Settings`.
-   - Usa “Add Open Scenes” per aggiungere la scena corrente.
 
 ## Struttura delle Cartelle
 
